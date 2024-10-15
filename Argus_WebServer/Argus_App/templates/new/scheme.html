@@ -1,0 +1,30 @@
+{% load static %}
+{% load custom_tags %}
+
+<div class="grid-cell-scheme">
+    <div class='scheme-values-container'>
+
+        <img id="scheme" src="{{ scheme.image.url }}" alt="Мнемосхема">
+        
+        {% for i in sensors %}
+            {% center_def i.center as center %}
+            <div id="value"
+                 class="draggable {{ center }}"
+                 data-id="{{ i.pk }}"
+                 style="position: absolute;
+                        left: {{ i.pos_x }}%;
+                        top: {{ i.pos_y }}%;
+                        color: {{ i.color }};
+                        cursor: cursor;
+                        user-select: none;
+                        z-index: 10;
+                        white-space: nowrap;"
+            >
+                {% display_sensor_info i.current_value i.units i.code %}
+            </div>
+        {% endfor %}
+        
+    </div>
+</div>
+
+

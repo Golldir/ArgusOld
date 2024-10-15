@@ -1,0 +1,3382 @@
+[
+{
+    "model": "Argus_App.sensor",
+    "pk": 91,
+    "fields": {
+        "code": "mash200801",
+        "pos_x": "28.78",
+        "pos_y": "13.87",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 92,
+    "fields": {
+        "code": "mash200802",
+        "pos_x": "19.2",
+        "pos_y": "13.87",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 93,
+    "fields": {
+        "code": "mash200803",
+        "pos_x": "19.2",
+        "pos_y": "27.29",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 94,
+    "fields": {
+        "code": "mash200804",
+        "pos_x": "12.96",
+        "pos_y": "27.29",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 95,
+    "fields": {
+        "code": "mash200805",
+        "pos_x": "12.96",
+        "pos_y": "3.13",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 96,
+    "fields": {
+        "code": "mash200806",
+        "pos_x": "6.73",
+        "pos_y": "27.29",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 97,
+    "fields": {
+        "code": "mash200807",
+        "pos_x": "6.73",
+        "pos_y": "3.13",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 98,
+    "fields": {
+        "code": "mash201601",
+        "pos_x": "61.86",
+        "pos_y": "13.87",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 99,
+    "fields": {
+        "code": "mash201602",
+        "pos_x": "52.27",
+        "pos_y": "13.87",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 100,
+    "fields": {
+        "code": "mash201603",
+        "pos_x": "52.27",
+        "pos_y": "27.29",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 101,
+    "fields": {
+        "code": "mash201604",
+        "pos_x": "46.04",
+        "pos_y": "27.29",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 102,
+    "fields": {
+        "code": "mash201605",
+        "pos_x": "46.04",
+        "pos_y": "3.13",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 103,
+    "fields": {
+        "code": "mash201606",
+        "pos_x": "39.81",
+        "pos_y": "27.29",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 104,
+    "fields": {
+        "code": "mash201607",
+        "pos_x": "39.81",
+        "pos_y": "3.13",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 105,
+    "fields": {
+        "code": "mash202401",
+        "pos_x": "94.94",
+        "pos_y": "13.87",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 106,
+    "fields": {
+        "code": "mash202402",
+        "pos_x": "85.35",
+        "pos_y": "13.87",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 107,
+    "fields": {
+        "code": "mash202403",
+        "pos_x": "85.35",
+        "pos_y": "27.29",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 108,
+    "fields": {
+        "code": "mash202404",
+        "pos_x": "79.12",
+        "pos_y": "27.29",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 109,
+    "fields": {
+        "code": "mash202405",
+        "pos_x": "79.12",
+        "pos_y": "3.13",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 110,
+    "fields": {
+        "code": "mash202406",
+        "pos_x": "72.89",
+        "pos_y": "27.29",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 111,
+    "fields": {
+        "code": "mash202407",
+        "pos_x": "72.89",
+        "pos_y": "3.13",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 112,
+    "fields": {
+        "code": "mash203201",
+        "pos_x": "28.78",
+        "pos_y": "46.08",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 113,
+    "fields": {
+        "code": "mash203202",
+        "pos_x": "19.2",
+        "pos_y": "46.08",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 114,
+    "fields": {
+        "code": "mash203203",
+        "pos_x": "19.2",
+        "pos_y": "59.5",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 115,
+    "fields": {
+        "code": "mash203204",
+        "pos_x": "12.96",
+        "pos_y": "59.5",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 116,
+    "fields": {
+        "code": "mash203205",
+        "pos_x": "12.96",
+        "pos_y": "35.34",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 117,
+    "fields": {
+        "code": "mash203206",
+        "pos_x": "6.73",
+        "pos_y": "59.5",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 118,
+    "fields": {
+        "code": "mash203207",
+        "pos_x": "6.73",
+        "pos_y": "35.34",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 119,
+    "fields": {
+        "code": "mash204001",
+        "pos_x": "61.86",
+        "pos_y": "46.08",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 120,
+    "fields": {
+        "code": "mash204002",
+        "pos_x": "52.27",
+        "pos_y": "46.08",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 121,
+    "fields": {
+        "code": "mash204003",
+        "pos_x": "52.27",
+        "pos_y": "59.5",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 122,
+    "fields": {
+        "code": "mash204004",
+        "pos_x": "46.04",
+        "pos_y": "59.5",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 123,
+    "fields": {
+        "code": "mash204005",
+        "pos_x": "46.04",
+        "pos_y": "35.34",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 124,
+    "fields": {
+        "code": "mash204006",
+        "pos_x": "39.81",
+        "pos_y": "59.5",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 125,
+    "fields": {
+        "code": "mash204007",
+        "pos_x": "39.81",
+        "pos_y": "35.34",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 126,
+    "fields": {
+        "code": "mash204801",
+        "pos_x": "94.94",
+        "pos_y": "46.08",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 127,
+    "fields": {
+        "code": "mash204802",
+        "pos_x": "85.35",
+        "pos_y": "46.08",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 128,
+    "fields": {
+        "code": "mash204803",
+        "pos_x": "85.35",
+        "pos_y": "59.5",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 129,
+    "fields": {
+        "code": "mash204804",
+        "pos_x": "79.12",
+        "pos_y": "59.5",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 130,
+    "fields": {
+        "code": "mash204805",
+        "pos_x": "79.12",
+        "pos_y": "35.34",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 131,
+    "fields": {
+        "code": "mash204806",
+        "pos_x": "72.89",
+        "pos_y": "59.5",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 132,
+    "fields": {
+        "code": "mash204807",
+        "pos_x": "72.89",
+        "pos_y": "35.34",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 133,
+    "fields": {
+        "code": "mash205601",
+        "pos_x": "28.78",
+        "pos_y": "78.29",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 134,
+    "fields": {
+        "code": "mash205602",
+        "pos_x": "19.2",
+        "pos_y": "78.29",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 135,
+    "fields": {
+        "code": "mash205603",
+        "pos_x": "19.2",
+        "pos_y": "91.72",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 136,
+    "fields": {
+        "code": "mash205604",
+        "pos_x": "12.96",
+        "pos_y": "91.72",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 137,
+    "fields": {
+        "code": "mash205605",
+        "pos_x": "12.96",
+        "pos_y": "67.55",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 138,
+    "fields": {
+        "code": "mash205606",
+        "pos_x": "6.73",
+        "pos_y": "91.72",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 139,
+    "fields": {
+        "code": "mash205607",
+        "pos_x": "6.73",
+        "pos_y": "67.55",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 140,
+    "fields": {
+        "code": "mash200808",
+        "pos_x": "0.56",
+        "pos_y": "6.31",
+        "center": false,
+        "color": "silver",
+        "units": "A",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 141,
+    "fields": {
+        "code": "mash201608",
+        "pos_x": "34.01",
+        "pos_y": "6.31",
+        "center": false,
+        "color": "silver",
+        "units": "A",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 142,
+    "fields": {
+        "code": "mash202408",
+        "pos_x": "66.61",
+        "pos_y": "6.31",
+        "center": false,
+        "color": "silver",
+        "units": "A",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 143,
+    "fields": {
+        "code": "mash203208",
+        "pos_x": "0.56",
+        "pos_y": "38.58",
+        "center": false,
+        "color": "silver",
+        "units": "A",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 144,
+    "fields": {
+        "code": "mash204008",
+        "pos_x": "34.01",
+        "pos_y": "38.58",
+        "center": false,
+        "color": "silver",
+        "units": "A",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 145,
+    "fields": {
+        "code": "mash204808",
+        "pos_x": "66.61",
+        "pos_y": "38.58",
+        "center": false,
+        "color": "silver",
+        "units": "A",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 146,
+    "fields": {
+        "code": "mash205608",
+        "pos_x": "1.06",
+        "pos_y": "69.64",
+        "center": false,
+        "color": "silver",
+        "units": "A",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 147,
+    "fields": {
+        "code": "mash206401",
+        "pos_x": "0.56",
+        "pos_y": "14.61",
+        "center": false,
+        "color": "silver",
+        "units": "мм/с",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 148,
+    "fields": {
+        "code": "mash206401",
+        "pos_x": "34.01",
+        "pos_y": "14.61",
+        "center": false,
+        "color": "red",
+        "units": "мм/с",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 149,
+    "fields": {
+        "code": "mash206403",
+        "pos_x": "66.61",
+        "pos_y": "14.61",
+        "center": false,
+        "color": "silver",
+        "units": "мм/с",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 150,
+    "fields": {
+        "code": "mash206404",
+        "pos_x": "0.56",
+        "pos_y": "46.82",
+        "center": false,
+        "color": "silver",
+        "units": "мм/с",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 151,
+    "fields": {
+        "code": "mash206405",
+        "pos_x": "34.01",
+        "pos_y": "46.82",
+        "center": false,
+        "color": "silver",
+        "units": "мм/с",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 152,
+    "fields": {
+        "code": "mash206406",
+        "pos_x": "66.61",
+        "pos_y": "46.82",
+        "center": false,
+        "color": "silver",
+        "units": "мм/с",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 153,
+    "fields": {
+        "code": "mash206407",
+        "pos_x": "0.56",
+        "pos_y": "79.04",
+        "center": false,
+        "color": "silver",
+        "units": "мм/с",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 154,
+    "fields": {
+        "code": "mash207201",
+        "pos_x": "19.2",
+        "pos_y": "6.31",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 155,
+    "fields": {
+        "code": "mash207202",
+        "pos_x": "52.27",
+        "pos_y": "6.31",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 156,
+    "fields": {
+        "code": "mash207203",
+        "pos_x": "85.35",
+        "pos_y": "6.31",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 157,
+    "fields": {
+        "code": "mash207204",
+        "pos_x": "19.2",
+        "pos_y": "38.58",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 158,
+    "fields": {
+        "code": "mash207205",
+        "pos_x": "52.27",
+        "pos_y": "38.58",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 159,
+    "fields": {
+        "code": "mash207206",
+        "pos_x": "85.35",
+        "pos_y": "38.58",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 160,
+    "fields": {
+        "code": "mash207207",
+        "pos_x": "19.2",
+        "pos_y": "70.64",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 161,
+    "fields": {
+        "code": "mash208001",
+        "pos_x": "27.8",
+        "pos_y": "29.3",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 162,
+    "fields": {
+        "code": "mash208002",
+        "pos_x": "60.88",
+        "pos_y": "29.3",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 163,
+    "fields": {
+        "code": "mash208003",
+        "pos_x": "93.76",
+        "pos_y": "29.3",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 164,
+    "fields": {
+        "code": "mash208004",
+        "pos_x": "27.8",
+        "pos_y": "61.52",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 165,
+    "fields": {
+        "code": "mash208005",
+        "pos_x": "60.88",
+        "pos_y": "61.52",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 166,
+    "fields": {
+        "code": "mash208006",
+        "pos_x": "93.86",
+        "pos_y": "61.52",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 167,
+    "fields": {
+        "code": "mash208007",
+        "pos_x": "27.8",
+        "pos_y": "93.73",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 168,
+    "fields": {
+        "code": "mash208801",
+        "pos_x": "45.0",
+        "pos_y": "67.46",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 169,
+    "fields": {
+        "code": "mash208802",
+        "pos_x": "45.0",
+        "pos_y": "69.57",
+        "center": false,
+        "color": "red",
+        "units": "мм",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 170,
+    "fields": {
+        "code": "mash209601",
+        "pos_x": "19.2",
+        "pos_y": "7.9",
+        "center": false,
+        "color": "orange",
+        "units": "%",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 171,
+    "fields": {
+        "code": "mash209602",
+        "pos_x": "52.27",
+        "pos_y": "7.9",
+        "center": false,
+        "color": "orange",
+        "units": "%",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 172,
+    "fields": {
+        "code": "mash209603",
+        "pos_x": "85.35",
+        "pos_y": "7.9",
+        "center": false,
+        "color": "orange",
+        "units": "%",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 173,
+    "fields": {
+        "code": "mash209604",
+        "pos_x": "19.2",
+        "pos_y": "40.11",
+        "center": false,
+        "color": "orange",
+        "units": "%",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 174,
+    "fields": {
+        "code": "mash209605",
+        "pos_x": "52.27",
+        "pos_y": "40.11",
+        "center": false,
+        "color": "orange",
+        "units": "%",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 175,
+    "fields": {
+        "code": "mash209606",
+        "pos_x": "85.35",
+        "pos_y": "40.11",
+        "center": false,
+        "color": "orange",
+        "units": "%",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 176,
+    "fields": {
+        "code": "mash209607",
+        "pos_x": "19.2",
+        "pos_y": "72.33",
+        "center": false,
+        "color": "orange",
+        "units": "%",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 177,
+    "fields": {
+        "code": "mash208807",
+        "pos_x": "45.0",
+        "pos_y": "73.5",
+        "center": false,
+        "color": "yellow",
+        "units": "%",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 178,
+    "fields": {
+        "code": "mash208808",
+        "pos_x": "45.0",
+        "pos_y": "75.51",
+        "center": false,
+        "color": "yellow",
+        "units": "%",
+        "scheme": 1
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 179,
+    "fields": {
+        "code": "204001",
+        "pos_x": "16.10",
+        "pos_y": "27.77",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 180,
+    "fields": {
+        "code": "204002",
+        "pos_x": "16.10",
+        "pos_y": "43.51",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 181,
+    "fields": {
+        "code": "204003",
+        "pos_x": "16.10",
+        "pos_y": "59.24",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 182,
+    "fields": {
+        "code": "204004",
+        "pos_x": "16.10",
+        "pos_y": "74.98",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 183,
+    "fields": {
+        "code": "204005",
+        "pos_x": "16.10",
+        "pos_y": "90.71",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 184,
+    "fields": {
+        "code": "204006",
+        "pos_x": "39.40",
+        "pos_y": "27.77",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 185,
+    "fields": {
+        "code": "204007",
+        "pos_x": "39.40",
+        "pos_y": "43.51",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 186,
+    "fields": {
+        "code": "204008",
+        "pos_x": "39.40",
+        "pos_y": "59.24",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 187,
+    "fields": {
+        "code": "204801",
+        "pos_x": "39.40",
+        "pos_y": "74.98",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 188,
+    "fields": {
+        "code": "204802",
+        "pos_x": "39.40",
+        "pos_y": "90.71",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 189,
+    "fields": {
+        "code": "204803",
+        "pos_x": "65.60",
+        "pos_y": "27.77",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 190,
+    "fields": {
+        "code": "204804",
+        "pos_x": "65.60",
+        "pos_y": "43.51",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 191,
+    "fields": {
+        "code": "204805",
+        "pos_x": "65.60",
+        "pos_y": "59.24",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 192,
+    "fields": {
+        "code": "204806",
+        "pos_x": "65.60",
+        "pos_y": "74.98",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 193,
+    "fields": {
+        "code": "204807",
+        "pos_x": "89.90",
+        "pos_y": "28.17",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 194,
+    "fields": {
+        "code": "204808",
+        "pos_x": "89.90",
+        "pos_y": "43.51",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 195,
+    "fields": {
+        "code": "205601",
+        "pos_x": "87",
+        "pos_y": "59.24",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 196,
+    "fields": {
+        "code": "205602",
+        "pos_x": "87",
+        "pos_y": "74.98",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 197,
+    "fields": {
+        "code": "205603",
+        "pos_x": "87",
+        "pos_y": "90.61",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 198,
+    "fields": {
+        "code": "211201",
+        "pos_x": "2.500",
+        "pos_y": "3.170",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 199,
+    "fields": {
+        "code": "211202",
+        "pos_x": "4.30",
+        "pos_y": "14.00",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 200,
+    "fields": {
+        "code": "211203",
+        "pos_x": "90.00",
+        "pos_y": "14",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 201,
+    "fields": {
+        "code": "205604",
+        "pos_x": "16.10",
+        "pos_y": "16.97",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 202,
+    "fields": {
+        "code": "205605",
+        "pos_x": "16.10",
+        "pos_y": "32.70",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 203,
+    "fields": {
+        "code": "205606",
+        "pos_x": "16.10",
+        "pos_y": "48.44",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 204,
+    "fields": {
+        "code": "205607",
+        "pos_x": "16.10",
+        "pos_y": "64.17",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 205,
+    "fields": {
+        "code": "205608",
+        "pos_x": "16.10",
+        "pos_y": "79.91",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 206,
+    "fields": {
+        "code": "206401",
+        "pos_x": "39.40",
+        "pos_y": "16.97",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 207,
+    "fields": {
+        "code": "206402",
+        "pos_x": "39.40",
+        "pos_y": "32.70",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 208,
+    "fields": {
+        "code": "206403",
+        "pos_x": "39.40",
+        "pos_y": "48.44",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 209,
+    "fields": {
+        "code": "206404",
+        "pos_x": "39.40",
+        "pos_y": "64.17",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 210,
+    "fields": {
+        "code": "206405",
+        "pos_x": "39.40",
+        "pos_y": "79.91",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 211,
+    "fields": {
+        "code": "206406",
+        "pos_x": "65.60",
+        "pos_y": "16.97",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 212,
+    "fields": {
+        "code": "206407",
+        "pos_x": "65.60",
+        "pos_y": "32.70",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 213,
+    "fields": {
+        "code": "206408",
+        "pos_x": "65.60",
+        "pos_y": "48.44",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 214,
+    "fields": {
+        "code": "210401",
+        "pos_x": "65.60",
+        "pos_y": "64.17",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 215,
+    "fields": {
+        "code": "210402",
+        "pos_x": "89.90",
+        "pos_y": "17.27",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 216,
+    "fields": {
+        "code": "210403",
+        "pos_x": "89.90",
+        "pos_y": "32.70",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 217,
+    "fields": {
+        "code": "210404",
+        "pos_x": "87",
+        "pos_y": "48.44",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 218,
+    "fields": {
+        "code": "210406",
+        "pos_x": "87",
+        "pos_y": "79.91",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 219,
+    "fields": {
+        "code": "210407",
+        "pos_x": "87",
+        "pos_y": "64.17",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 220,
+    "fields": {
+        "code": "211205",
+        "pos_x": "2.50",
+        "pos_y": "5.08",
+        "center": false,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 221,
+    "fields": {
+        "code": "211206",
+        "pos_x": "4.50",
+        "pos_y": "19",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 222,
+    "fields": {
+        "code": "211207",
+        "pos_x": "81.50",
+        "pos_y": "14",
+        "center": false,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 2
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 267,
+    "fields": {
+        "code": "kond200803",
+        "pos_x": "72.63",
+        "pos_y": "15.29",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 268,
+    "fields": {
+        "code": "kond200804",
+        "pos_x": "72.63",
+        "pos_y": "17.04",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 269,
+    "fields": {
+        "code": "kond200805",
+        "pos_x": "60.61",
+        "pos_y": "15.29",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 270,
+    "fields": {
+        "code": "kond200806",
+        "pos_x": "60.61",
+        "pos_y": "17.04",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 271,
+    "fields": {
+        "code": "kond200808",
+        "pos_x": "48.6",
+        "pos_y": "15.29",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 272,
+    "fields": {
+        "code": "kond201602",
+        "pos_x": "36.57",
+        "pos_y": "15.29",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 273,
+    "fields": {
+        "code": "kond201603",
+        "pos_x": "24.55",
+        "pos_y": "15.29",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 274,
+    "fields": {
+        "code": "kond201604",
+        "pos_x": "24.55",
+        "pos_y": "17.04",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 275,
+    "fields": {
+        "code": "kond201605",
+        "pos_x": "12.53",
+        "pos_y": "15.29",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 276,
+    "fields": {
+        "code": "kond201606",
+        "pos_x": "12.53",
+        "pos_y": "17.04",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 277,
+    "fields": {
+        "code": "kond201607",
+        "pos_x": "53.74",
+        "pos_y": "42.18",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 278,
+    "fields": {
+        "code": "kond201608",
+        "pos_x": "41.67",
+        "pos_y": "42.18",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 279,
+    "fields": {
+        "code": "kond202401",
+        "pos_x": "92.2",
+        "pos_y": "78.85",
+        "center": true,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 280,
+    "fields": {
+        "code": "kond202402",
+        "pos_x": "12.53",
+        "pos_y": "42.18",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 281,
+    "fields": {
+        "code": "kond202403",
+        "pos_x": "24.55",
+        "pos_y": "42.18",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 282,
+    "fields": {
+        "code": "kond202404",
+        "pos_x": "24.55",
+        "pos_y": "84.59",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 283,
+    "fields": {
+        "code": "kond202405",
+        "pos_x": "53.84",
+        "pos_y": "84.39",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 284,
+    "fields": {
+        "code": "kond202408",
+        "pos_x": "4.83",
+        "pos_y": "28.08",
+        "center": true,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 285,
+    "fields": {
+        "code": "kond204005",
+        "pos_x": "39.36",
+        "pos_y": "69.68",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 286,
+    "fields": {
+        "code": "kond200807",
+        "pos_x": "46.43",
+        "pos_y": "69.68",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 287,
+    "fields": {
+        "code": "kond204002",
+        "pos_x": "74.21",
+        "pos_y": "48.35",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 288,
+    "fields": {
+        "code": "kond204003",
+        "pos_x": "87.85",
+        "pos_y": "48.25",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 289,
+    "fields": {
+        "code": "kond202406",
+        "pos_x": "82.01",
+        "pos_y": "87.32",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 290,
+    "fields": {
+        "code": "kond204007",
+        "pos_x": "69.19",
+        "pos_y": "67.51",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 291,
+    "fields": {
+        "code": "kond204001",
+        "pos_x": "4.6",
+        "pos_y": "95.66",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 292,
+    "fields": {
+        "code": "kond204004",
+        "pos_x": "33.23",
+        "pos_y": "64.41",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 293,
+    "fields": {
+        "code": "kond204006",
+        "pos_x": "4.1",
+        "pos_y": "75.52",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 294,
+    "fields": {
+        "code": "kond204801",
+        "pos_x": "61.09",
+        "pos_y": "55.64",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 295,
+    "fields": {
+        "code": "kond204802",
+        "pos_x": "61.09",
+        "pos_y": "62.78",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 296,
+    "fields": {
+        "code": "kond204803",
+        "pos_x": "55.94",
+        "pos_y": "55.64",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 297,
+    "fields": {
+        "code": "kond204804",
+        "pos_x": "55.94",
+        "pos_y": "62.78",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 298,
+    "fields": {
+        "code": "kond204805",
+        "pos_x": "50.79",
+        "pos_y": "55.64",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 299,
+    "fields": {
+        "code": "kond204806",
+        "pos_x": "50.79",
+        "pos_y": "62.78",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 300,
+    "fields": {
+        "code": "kond204807",
+        "pos_x": "45.64",
+        "pos_y": "55.64",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 301,
+    "fields": {
+        "code": "kond204808",
+        "pos_x": "45.64",
+        "pos_y": "62.78",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 302,
+    "fields": {
+        "code": "kond203208",
+        "pos_x": "4.03",
+        "pos_y": "0.38",
+        "center": true,
+        "color": "cyan",
+        "units": "м3/ч",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 303,
+    "fields": {
+        "code": "kond203201",
+        "pos_x": "39.66",
+        "pos_y": "71.43",
+        "center": true,
+        "color": "cyan",
+        "units": "м3/ч",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 304,
+    "fields": {
+        "code": "kond203206",
+        "pos_x": "46.43",
+        "pos_y": "71.43",
+        "center": true,
+        "color": "cyan",
+        "units": "м3/ч",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 305,
+    "fields": {
+        "code": "kond203205",
+        "pos_x": "94.42",
+        "pos_y": "42.36",
+        "center": true,
+        "color": "cyan",
+        "units": "м3/ч",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 306,
+    "fields": {
+        "code": "kond203207",
+        "pos_x": "53.51",
+        "pos_y": "71.43",
+        "center": true,
+        "color": "cyan",
+        "units": "м3/ч",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 307,
+    "fields": {
+        "code": "kond202407",
+        "pos_x": "60.38",
+        "pos_y": "71.43",
+        "center": true,
+        "color": "cyan",
+        "units": "м3/ч",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 308,
+    "fields": {
+        "code": "kond203204",
+        "pos_x": "82.01",
+        "pos_y": "90.05",
+        "center": false,
+        "color": "cyan",
+        "units": "м3/ч",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 309,
+    "fields": {
+        "code": "kond203202",
+        "pos_x": "69.19",
+        "pos_y": "69.43",
+        "center": false,
+        "color": "cyan",
+        "units": "м3/ч",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 310,
+    "fields": {
+        "code": "kond203203",
+        "pos_x": "4.6",
+        "pos_y": "97.29",
+        "center": false,
+        "color": "cyan",
+        "units": "м3/ч",
+        "scheme": 3
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 311,
+    "fields": {
+        "code": "naso200101",
+        "pos_x": "36.41",
+        "pos_y": "37.28",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 312,
+    "fields": {
+        "code": "naso200102",
+        "pos_x": "36.41",
+        "pos_y": "51.77",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 313,
+    "fields": {
+        "code": "naso200103",
+        "pos_x": "46.14",
+        "pos_y": "63.2",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 314,
+    "fields": {
+        "code": "naso200104",
+        "pos_x": "4.44",
+        "pos_y": "10.66",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 316,
+    "fields": {
+        "code": "naso200105",
+        "pos_x": "15.0",
+        "pos_y": "60.02",
+        "center": false,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 317,
+    "fields": {
+        "code": "naso200106",
+        "pos_x": "15.0",
+        "pos_y": "45.84",
+        "center": false,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 318,
+    "fields": {
+        "code": "naso200107",
+        "pos_x": "15.0",
+        "pos_y": "31.56",
+        "center": false,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 319,
+    "fields": {
+        "code": "naso200108",
+        "pos_x": "15.0",
+        "pos_y": "17.27",
+        "center": false,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 320,
+    "fields": {
+        "code": "naso200109",
+        "pos_x": "36.41",
+        "pos_y": "35.39",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 321,
+    "fields": {
+        "code": "naso200110",
+        "pos_x": "36.41",
+        "pos_y": "49.88",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 322,
+    "fields": {
+        "code": "naso200111",
+        "pos_x": "46.14",
+        "pos_y": "61.21",
+        "center": false,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 323,
+    "fields": {
+        "code": "naso200112",
+        "pos_x": "4.44",
+        "pos_y": "72.55",
+        "center": false,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 324,
+    "fields": {
+        "code": "naso200113",
+        "pos_x": "4.44",
+        "pos_y": "8.95",
+        "center": false,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 326,
+    "fields": {
+        "code": "naso200114",
+        "pos_x": "76.54",
+        "pos_y": "76.22",
+        "center": true,
+        "color": "yellow",
+        "units": "%",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 327,
+    "fields": {
+        "code": "naso200115",
+        "pos_x": "91.43",
+        "pos_y": "76.22",
+        "center": true,
+        "color": "yellow",
+        "units": "%",
+        "scheme": 4
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 328,
+    "fields": {
+        "code": "207201",
+        "pos_x": "15.5",
+        "pos_y": "46.0",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 329,
+    "fields": {
+        "code": "207202",
+        "pos_x": "15.5",
+        "pos_y": "47.91",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 330,
+    "fields": {
+        "code": "207203",
+        "pos_x": "27",
+        "pos_y": "46.0",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 331,
+    "fields": {
+        "code": "207204",
+        "pos_x": "27",
+        "pos_y": "47.91",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 332,
+    "fields": {
+        "code": "207205",
+        "pos_x": "38",
+        "pos_y": "46.0",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 333,
+    "fields": {
+        "code": "207206",
+        "pos_x": "38",
+        "pos_y": "47.91",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 334,
+    "fields": {
+        "code": "207207",
+        "pos_x": "49.5",
+        "pos_y": "46.0",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 335,
+    "fields": {
+        "code": "207208",
+        "pos_x": "49.5",
+        "pos_y": "47.91",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 336,
+    "fields": {
+        "code": "208001",
+        "pos_x": "61",
+        "pos_y": "46.0",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 337,
+    "fields": {
+        "code": "208002",
+        "pos_x": "61",
+        "pos_y": "47.91",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 338,
+    "fields": {
+        "code": "208003",
+        "pos_x": "71",
+        "pos_y": "46.0",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 339,
+    "fields": {
+        "code": "208004",
+        "pos_x": "71",
+        "pos_y": "47.91",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 340,
+    "fields": {
+        "code": "208005",
+        "pos_x": "15.5",
+        "pos_y": "34.82",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 341,
+    "fields": {
+        "code": "208006",
+        "pos_x": "15.5",
+        "pos_y": "36.74",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 342,
+    "fields": {
+        "code": "208007",
+        "pos_x": "27",
+        "pos_y": "34.82",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 343,
+    "fields": {
+        "code": "208008",
+        "pos_x": "27",
+        "pos_y": "36.74",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 344,
+    "fields": {
+        "code": "208801",
+        "pos_x": "38",
+        "pos_y": "34.82",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 345,
+    "fields": {
+        "code": "208802",
+        "pos_x": "38",
+        "pos_y": "36.74",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 346,
+    "fields": {
+        "code": "208803",
+        "pos_x": "49.5",
+        "pos_y": "34.82",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 347,
+    "fields": {
+        "code": "208804",
+        "pos_x": "49.5",
+        "pos_y": "36.74",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 348,
+    "fields": {
+        "code": "208805",
+        "pos_x": "61",
+        "pos_y": "34.82",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 349,
+    "fields": {
+        "code": "208806",
+        "pos_x": "61",
+        "pos_y": "36.74",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 350,
+    "fields": {
+        "code": "208807",
+        "pos_x": "71",
+        "pos_y": "34.82",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 351,
+    "fields": {
+        "code": "208808",
+        "pos_x": "71",
+        "pos_y": "36.74",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 352,
+    "fields": {
+        "code": "212801",
+        "pos_x": "10.5",
+        "pos_y": "77.21",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 353,
+    "fields": {
+        "code": "212802",
+        "pos_x": "21.8",
+        "pos_y": "77.21",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 354,
+    "fields": {
+        "code": "209601",
+        "pos_x": "15.5",
+        "pos_y": "32.91",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 355,
+    "fields": {
+        "code": "209602",
+        "pos_x": "27",
+        "pos_y": "32.91",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 356,
+    "fields": {
+        "code": "209603",
+        "pos_x": "38",
+        "pos_y": "32.91",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 357,
+    "fields": {
+        "code": "209604",
+        "pos_x": "49.5",
+        "pos_y": "32.91",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 358,
+    "fields": {
+        "code": "209605",
+        "pos_x": "61",
+        "pos_y": "32.91",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 359,
+    "fields": {
+        "code": "209606",
+        "pos_x": "71",
+        "pos_y": "32.91",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 360,
+    "fields": {
+        "code": "212001",
+        "pos_x": "15.5",
+        "pos_y": "30.12",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 361,
+    "fields": {
+        "code": "212002",
+        "pos_x": "27",
+        "pos_y": "30.12",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 362,
+    "fields": {
+        "code": "212003",
+        "pos_x": "38",
+        "pos_y": "30.12",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 363,
+    "fields": {
+        "code": "212004",
+        "pos_x": "49.5",
+        "pos_y": "30.12",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 364,
+    "fields": {
+        "code": "212005",
+        "pos_x": "61",
+        "pos_y": "30.12",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 365,
+    "fields": {
+        "code": "212006",
+        "pos_x": "71",
+        "pos_y": "30.12",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 366,
+    "fields": {
+        "code": "212807",
+        "pos_x": "10.5",
+        "pos_y": "75.3",
+        "center": false,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 367,
+    "fields": {
+        "code": "212008",
+        "pos_x": "21.8",
+        "pos_y": "75.3",
+        "center": false,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 368,
+    "fields": {
+        "code": "201604",
+        "pos_x": "78.0",
+        "pos_y": "13.94",
+        "center": false,
+        "color": "red",
+        "units": "кг/см2",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 369,
+    "fields": {
+        "code": "212803",
+        "pos_x": "10.5",
+        "pos_y": "79.0",
+        "center": false,
+        "color": "cyan",
+        "units": "Тм3/ч",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 370,
+    "fields": {
+        "code": "212804",
+        "pos_x": "21.8",
+        "pos_y": "79.0",
+        "center": false,
+        "color": "cyan",
+        "units": "Тм3/ч",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 371,
+    "fields": {
+        "code": "201602",
+        "pos_x": "78.0",
+        "pos_y": "12.04",
+        "center": false,
+        "color": "cyan",
+        "units": "т/ч",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 372,
+    "fields": {
+        "code": "212805",
+        "pos_x": "46.3",
+        "pos_y": "77.0",
+        "center": false,
+        "color": "yellow",
+        "units": "м",
+        "scheme": 5
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 373,
+    "fields": {
+        "code": "200801",
+        "pos_x": "36.5",
+        "pos_y": "66.59",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 374,
+    "fields": {
+        "code": "200802",
+        "pos_x": "36.5",
+        "pos_y": "68.5",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 375,
+    "fields": {
+        "code": "200803",
+        "pos_x": "48.5",
+        "pos_y": "66.59",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 376,
+    "fields": {
+        "code": "200804",
+        "pos_x": "48.5",
+        "pos_y": "68.5",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 377,
+    "fields": {
+        "code": "200805",
+        "pos_x": "36.5",
+        "pos_y": "54.82",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 378,
+    "fields": {
+        "code": "200806",
+        "pos_x": "36.5",
+        "pos_y": "56.74",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 379,
+    "fields": {
+        "code": "200807",
+        "pos_x": "48.5",
+        "pos_y": "54.82",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 380,
+    "fields": {
+        "code": "200808",
+        "pos_x": "48.5",
+        "pos_y": "56.74",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 381,
+    "fields": {
+        "code": "200808",
+        "pos_x": "44.5",
+        "pos_y": "91.56",
+        "center": false,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 382,
+    "fields": {
+        "code": "202403",
+        "pos_x": "7.5",
+        "pos_y": "77.44",
+        "center": true,
+        "color": "lime",
+        "units": "'C",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 383,
+    "fields": {
+        "code": "202405",
+        "pos_x": "36.5",
+        "pos_y": "52.91",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 384,
+    "fields": {
+        "code": "202406",
+        "pos_x": "48.5",
+        "pos_y": "52.91",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 385,
+    "fields": {
+        "code": "202407",
+        "pos_x": "63.5",
+        "pos_y": "57",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 386,
+    "fields": {
+        "code": "202408",
+        "pos_x": "76.0",
+        "pos_y": "57",
+        "center": true,
+        "color": "silver",
+        "units": "A",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 387,
+    "fields": {
+        "code": "201603",
+        "pos_x": "44.5",
+        "pos_y": "93.47",
+        "center": false,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 388,
+    "fields": {
+        "code": "203201",
+        "pos_x": "36.5",
+        "pos_y": "72",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 389,
+    "fields": {
+        "code": "203202",
+        "pos_x": "48.5",
+        "pos_y": "72",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 390,
+    "fields": {
+        "code": "203203",
+        "pos_x": "63.5",
+        "pos_y": "54.7",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 391,
+    "fields": {
+        "code": "203204",
+        "pos_x": "76",
+        "pos_y": "54.7",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 392,
+    "fields": {
+        "code": "203205",
+        "pos_x": "36.5",
+        "pos_y": "50.24",
+        "center": true,
+        "color": "red",
+        "units": "кгс/см2",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 393,
+    "fields": {
+        "code": "201605",
+        "pos_x": "44.5",
+        "pos_y": "95.38",
+        "center": false,
+        "color": "cyan",
+        "units": "Тм3/ч",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 394,
+    "fields": {
+        "code": "201607",
+        "pos_x": "90.1",
+        "pos_y": "40.12",
+        "center": true,
+        "color": "cyan",
+        "units": "Тм3/ч",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 395,
+    "fields": {
+        "code": "202401",
+        "pos_x": "21.2",
+        "pos_y": "72.59",
+        "center": true,
+        "color": "cyan",
+        "units": "Тм3/ч",
+        "scheme": 6
+    }
+},
+{
+    "model": "Argus_App.sensor",
+    "pk": 396,
+    "fields": {
+        "code": "202402",
+        "pos_x": "7.5",
+        "pos_y": "72.59",
+        "center": true,
+        "color": "cyan",
+        "units": "Тм3/ч",
+        "scheme": 6
+    }
+}
+]

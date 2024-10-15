@@ -1,0 +1,9 @@
+{% load static %}
+
+<div id="navbar">
+    {% for i in schemes %}
+        <a href="{% url 'main' i.slug %}">
+            {{ i.navmenu_name }}
+        </a>
+    {% endfor %}
+</div>

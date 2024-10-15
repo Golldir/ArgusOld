@@ -1,0 +1,62 @@
+[
+{
+    "model": "Argus_App.mnemonicscheme",
+    "pk": 1,
+    "fields": {
+        "image": "/images/mash.png",
+        "slug": "mash",
+        "navmenu_name": "Машзал ГДМ",
+        "values_address": "C:\\\\Users\\\\User90\\\\Desktop\\\\AriesSvc_MASH.val"
+    }
+},
+{
+    "model": "Argus_App.mnemonicscheme",
+    "pk": 2,
+    "fields": {
+        "image": "/images/grad.png",
+        "slug": "grad",
+        "navmenu_name": "Градирни",
+        "values_address": "C:\\\\Users\\\\User90\\\\Desktop\\\\AriesSvc_NAS2.val"
+    }
+},
+{
+    "model": "Argus_App.mnemonicscheme",
+    "pk": 3,
+    "fields": {
+        "image": "/images/kond.png",
+        "slug": "kond",
+        "navmenu_name": "Конденсация",
+        "values_address": "C:\\\\Users\\\\User90\\\\Desktop\\\\AriesSvc_KOND.val"
+    }
+},
+{
+    "model": "Argus_App.mnemonicscheme",
+    "pk": 4,
+    "fields": {
+        "image": "/images/nas1.png",
+        "slug": "nas1",
+        "navmenu_name": "Насосная №1",
+        "values_address": "C:\\\\Users\\\\User90\\\\Desktop\\\\AriesSvc_NAS1.val"
+    }
+},
+{
+    "model": "Argus_App.mnemonicscheme",
+    "pk": 5,
+    "fields": {
+        "image": "/images/nas2.png",
+        "slug": "nas2",
+        "navmenu_name": "Насосная №2",
+        "values_address": "C:\\\\Users\\\\User90\\\\Desktop\\\\AriesSvc_NAS2.val"
+    }
+},
+{
+    "model": "Argus_App.mnemonicscheme",
+    "pk": 6,
+    "fields": {
+        "image": "/images/nas3.png",
+        "slug": "nas3",
+        "navmenu_name": "Насосная №3",
+        "values_address": "C:\\\\Users\\\\User90\\\\Desktop\\\\AriesSvc_NAS2.val"
+    }
+}
+]

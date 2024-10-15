@@ -1,0 +1,30 @@
+{% load static %}
+{% load custom_tags %}
+
+<!-- НАДО БЫ СЮДА ПРОСТО CSS СДЕЛАТЬ-->
+<div id="time">
+    Страница создана: {{ time }}.
+</div>
+
+<!-- НАДО БЫ СЮДА ПРОСТО CSS СДЕЛАТЬ-->
+<div id="container">
+    <img id="image"
+         width="1000"
+         height="680"
+         src="{{ scheme.image.url }}"
+         alt="Описание изображения"
+    >
+    
+    {% for i in sensors %}
+        {% ie_special i.pos_x i.center as pos_x %}
+            <div id="value"
+                 class="{{ center }}"
+                 style="position: absolute;
+                        left: {{ pos_x }}%;
+                        top: {{ i.pos_y }}%;
+                        color: {{ i.color }};"
+            >
+                {% display_sensor_info i.current_value i.units i.code %}
+            </div>
+    {% endfor %}
+</div>

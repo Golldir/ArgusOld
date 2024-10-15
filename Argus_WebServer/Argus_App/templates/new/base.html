@@ -1,0 +1,23 @@
+{% load static %}
+
+<html>
+<head>
+	<title>{{ scheme.navmenu_name }}</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'new/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'new/css/styles.css' %}" type="text/css">
+    <script src="{% static 'new/js/script.js' %}"></script>
+</head>
+<body>
+    <div class="grid-container">
+        <!--Блок навигации / Навбар -->
+        {% include 'new/navbar.html' %}
+        
+        <div id="creation-time">Страница создана: {{ time }}</div>
+        
+        <!--Блок схема + значения-->
+        {% include 'new/scheme.html' %}
+    </div>
+</body>
+</html>

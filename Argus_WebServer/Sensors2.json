@@ -1,0 +1,16 @@
+[
+{
+    "model": "Argus_App.sensor",
+    "pk": 1,
+    "fields": {
+        "code": "mash4513",
+        "pos_x": "123.3",
+        "pos_y": "142.3",
+        "center": false,
+        "color": "red",
+        "units": "c",
+        "current_value": 10.0,
+        "scheme": null
+    }
+}
+]

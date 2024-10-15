@@ -1,0 +1,74 @@
+ html, body {
+    background-color: black;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-rows:  1fr 0.5fr 20fr;
+
+    height: 100vh; /* 100% от высоты видимого окна */
+    width: 100vw;
+    padding: 0;
+}
+
+.navmenu {
+    grid-area: 1 / 1 / 1 / 3;
+    background-color: #16191b
+}
+
+.nav-link {
+    color: #d3d3d3;
+}
+
+.nav-color {
+    background: linear-gradient(45deg, #16191b, #212629, #2c3336, #212629, #16191b);
+}
+
+.navmenu ul.nav{
+    height: 100%;
+}
+
+#creation-time {
+    grid-area: 2 / 1 / 3 / 3;
+
+    justify-self: right;
+    align-self: center;
+    margin-right: 9px;
+    z-index: 10;
+
+    color: white;
+}
+
+.grid-cell-scheme {
+    grid-area: 2 / 1 / 4 / 3;
+    display: grid;
+
+    overflow: hidden;
+    opacity: 0;
+    background-color: black;
+
+    min-width: 700px;
+    min-height: 500px;
+}
+
+.scheme-values-container {
+    position: relative;
+    justify-self: center;
+    align-self: center;
+}
+
+#scheme {
+    max-width: 100%;
+    user-select: none;
+}
+
+.form {
+    padding: 0 10px;
+    background-color: #16191b;
+    margin: 0 0.5rem 0.5rem;
+    z-index: 10;
+    background: linear-gradient(#16191b, #212629, #2c3336, #212629, #16191b);
+}
+
+
+

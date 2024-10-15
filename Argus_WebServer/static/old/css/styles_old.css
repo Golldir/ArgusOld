@@ -1,0 +1,27 @@
+#navbar {
+    position: absolute;
+    font-family: tahoma, arial;
+    font-weight: bold;
+    font-size: 12px;
+    left:0px; top:0px;
+    width: 900px;
+}
+
+#time {
+    position: absolute;
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    left: 750px;
+    top: 15px;
+    width: 240px;
+    color: white
+}
+
+#container {
+    position: absolute;
+    font-family: arial;
+    font-size: 13px;
+    left: 0px;
+    top: 28px;
+}
